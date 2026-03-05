@@ -36,27 +36,44 @@ Download and install the demo app:
 
 ## Screenshots
 
-### Starting Screen
-![Starting](screenshots/starting.jpeg)
+<table>
+<tr>
+<td align="center">Starting</td>
+<td align="center">Login</td>
+<td align="center">Home</td>
+</tr>
+<tr>
+<td><img src="screenshots/starting.jpeg" width="250"></td>
+<td><img src="screenshots/login.jpeg" width="250"></td>
+<td><img src="screenshots/home.jpeg" width="250"></td>
+</tr>
 
-### Login Screen
-![Login](screenshots/login.jpeg)
+<tr>
+<td align="center">Chat</td>
+<td align="center">Request</td>
+<td align="center">Profile</td>
+</tr>
+<tr>
+<td><img src="screenshots/chats.jpeg" width="250"></td>
+<td><img src="screenshots/request.jpeg" width="250"></td>
+<td><img src="screenshots/profile.jpeg" width="250"></td>
+</tr>
 
-### Home Screen
-![Home](screenshots/home.jpeg)
-
-### Chat Screen
-![Chat](screenshots/chats.jpeg)
-
-### Profile Screen
-![Profile](screenshots/profile.jpeg)
-
-### Request Screen
-![Request](screenshots/request.jpeg)
-
-### Settings Screen
-![Settings](screenshots/settings.jpeg)
+<tr>
+<td align="center">Settings</td>
+</tr>
+<tr>
+<td><img src="screenshots/settings.jpeg" width="250"></td>
+</tr>
+</table>
 
 ---
 
 ## Project Structure
+
+
+---
+
+## Author
+
+Aditya Jaiswal
