@@ -1,17 +1,53 @@
-# nearcash_demo
+# NearCash Demo App
 
-A new Flutter project.
+NearCash is a Flutter demo application that allows nearby people to exchange cash denominations within a 1 km radius.  
+Users can raise requests, accept nearby requests, and chat to coordinate the exchange.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Login screen with mobile validation
+- Raise cash exchange request
+- View nearby requests (within 1 km simulation)
+- Accept request and start chat
+- Profile update with photo
+- Settings page
+- Success animation on request accept
+- Demo APK included
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Download APK
+
+Download and install the demo app:
+
+[Download APK](app-release.apk)
+
+---
+
+## Screenshots
+
+### Login Screen
+![Login](screenshots/login.png)
+
+### Home Screen
+![Home](screenshots/home.png)
+
+### Chat Screen
+![Chat](screenshots/chat.png)
+
+### Profile Screen
+![Profile](screenshots/profile.png)
+
+---
+
+## Tech Stack
+
+- Flutter
+- Dart
+- Material UI
+
+---
+
+## Project Structure
