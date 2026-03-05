@@ -5,6 +5,14 @@ Users can raise requests, accept nearby requests, and chat to coordinate the exc
 
 ---
 
+## Tech Stack
+
+- Flutter
+- Dart
+- Material UI
+
+---
+
 ## Features
 
 - Login screen with mobile validation
@@ -48,14 +56,6 @@ Download and install the demo app:
 
 ### Settings Screen
 ![Settings](screenshots/settings.jpeg)
-
----
-
-## Tech Stack
-
-- Flutter
-- Dart
-- Material UI
 
 ---
 
