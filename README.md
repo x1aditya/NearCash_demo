@@ -28,17 +28,26 @@ Download and install the demo app:
 
 ## Screenshots
 
+### Starting Screen
+![Starting](screenshots/starting.jpeg)
+
 ### Login Screen
-![Login](screenshots/login.png)
+![Login](screenshots/login.jpeg)
 
 ### Home Screen
-![Home](screenshots/home.png)
+![Home](screenshots/home.jpeg)
 
 ### Chat Screen
-![Chat](screenshots/chat.png)
+![Chat](screenshots/chats.jpeg)
 
 ### Profile Screen
-![Profile](screenshots/profile.png)
+![Profile](screenshots/profile.jpeg)
+
+### Request Screen
+![Request](screenshots/request.jpeg)
+
+### Settings Screen
+![Settings](screenshots/settings.jpeg)
 
 ---
 
