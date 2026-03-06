@@ -77,3 +77,8 @@ Download and install the demo app:
 ## Author
 
 Aditya Jaiswal
+Chintu Garg
+Aarav Jain
+Vansh Bhatia
+Devang Kapil
+Garv chanana
